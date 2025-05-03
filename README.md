@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,express,blokchain,robotics**
 
-- 📫 How to reach me **anandchowdary2005@gmail.com**
+- 📫 How to reach me! **anandchowdary2005@gmail.com**
 
 - ⚡ Fun fact **Thanks for Stalking**
 
