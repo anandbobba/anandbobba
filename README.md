@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand Bobba</h1>
 <h3 align="center">👨‍💻 Student | 🚀 Developer | 🔐 Robotic Enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning***
 
 - 💬 Ask me about **react,express,blokchain,robotics**
 
