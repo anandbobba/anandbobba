@@ -21,7 +21,7 @@
 💬 Ask me about:
 - Swarm robotics and micro bot mechanisms
 - Building LLMs and integrating AI with robotics
-- Hackathon strategies and project building
+- Hackathon strategies and project buildingg
 
 ⚡ Fun fact:
 I’m designing robots that not only follow lines but also follow each other with precision—call it robotic teamwork at its finest!
