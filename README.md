@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on:
 - A Micro Bot project
-- Line Follower robot
+- Line Follower robot.
 - Swarm robot position accuracy system
 - Creating an LLM (Large Language Model) named Omni AI
 
