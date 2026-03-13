@@ -1,7 +1,6 @@
 # 💫 About Me
 
 🔭 **Currently Working On:**
-- **Robotic Rescue Software** - Developing autonomous navigation and decision-making systems for search and rescue operations
 - **CopyAI Browser Extension** - Building an intelligent browser tool for AI-powered content generation and assistance
 - **Computer Vision Models** - Training and deploying custom CV models for object detection and scene understanding
 - **Industrial Manipulator using ROS** - Creating control systems for industrial robotic arms with ROS framework
